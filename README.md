@@ -1,6 +1,6 @@
 # 📊 Superstore Sales Analysis
 
-This project analyzes sales performance using the [Superstore Dataset] ("https://www.kaggle.com/datasets/vivek468/superstore-dataset-final") to uncover patterns in profitability, product performance, discounts, and customer behavior. The aim is to generate actionable insights that drive smarter decisions for sales, marketing, and operations.
+This project analyzes sales performance using the [Superstore Dataset]("https://www.kaggle.com/datasets/vivek468/superstore-dataset-final") to uncover patterns in profitability, product performance, discounts, and customer behavior. The aim is to generate actionable insights that drive smarter decisions for sales, marketing, and operations.
 
 ---
 
@@ -86,5 +86,9 @@ The dataset contains 9,994 records of customer transactions, including:
 
 ---
 
-## 📁 Folder Structure
+## 🚀 Future Work (Optional Ideas)
+- Predictive Modeling (e.g., sales forecasting)
+- Customer segmentation using clustering
+- Interactive dashboards (e.g., Power BI / Tableau)
 
+---
